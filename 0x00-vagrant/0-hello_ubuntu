@@ -1,0 +1,1 @@
+It prints the name and information about the current operating system. The output includes the kernel name, the network node hostname, the kernel release, the kernel version, the machine hardware name, the processor type, and the operating system. 
